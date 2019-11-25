@@ -1,0 +1,1 @@
+This project was written in Python using Jupyter notebook. The notebook can be easily downloaded through Anaconda and it can be downloaded here: https://www.anaconda.com. 
